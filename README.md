@@ -1,6 +1,6 @@
 ### Hi, I'm Aaron
 
-I'm a developer who likes building small, practical command-line tools and figuring out how things work under the hood. I work mostly in Python, with some Go and SQL, and I'm drawn to backend development.
+I'm a developer who likes building small, practical command-line tools and figuring out how things work under the hood. I work mostly in Python, with Go and SQL as I build toward backend development.
 
 Outside of code, I'm a big board game player, which is actually where my nextgame project started.
 
